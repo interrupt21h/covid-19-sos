@@ -23,13 +23,13 @@ email: scott@21h.io
 description: >- # this means to ignore newlines until "baseurl:"
   COVID-19 outbreak in map projections useful for display with NOAA's Science On a Sphere.
   The visualizations are based on data from Healthmap.org.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/covid-19-sos/" # the subpath of your site, e.g. /blog
+url: "https://interrupt21h.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: muller
 github_username:  interrupt21h
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
