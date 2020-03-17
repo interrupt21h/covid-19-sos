@@ -9,7 +9,9 @@ layout: page
   <source type="video/mp4" src="https://github.com/interrupt21h/covid-19-sos/raw/master/mp4/covid-19-sos_legend_small.mp4">
 </video>
 
-*Based on data from [Healthmap.org](https://www.healthmap.org/ncov2019/) / Scott Muller*
+*Created by Scott Muller / Based on data from [Healthmap.org](https://www.healthmap.org/ncov2019/)*
+
+
 
 ### Download current MP4
 
@@ -29,5 +31,10 @@ layout: page
 * [4K frames without legend](https://github.com/interrupt21h/covid-19-sos/tree/master/4096)
 
 * [JSON data](https://github.com/interrupt21h/covid-19-sos/tree/master/json)
+
+
+
+*For more information about NOAA's Science On a Sphere, see [sos.noaa.gov](http://sos.noaa.gov).*
+
 
 
